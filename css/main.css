@@ -817,7 +817,7 @@ footer {
 }
 
 .button-alt {
-  background-color: var();
+  background-color: var(--team-color);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6;
